@@ -10,5 +10,5 @@ _Bypass-MD//github.com/sahanxpasi-MD/RIO
 _Bypass-MDI' : process.env.SESSION_ID,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 SESSION_NAME: process.env.PORT === undefined ? "asitha" : process.env.SESSION_NAME,
-POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgresql://postgres:@Asitha2005b@db.waiqbrnuxkjebghzhovz.supabase.co:5432/postgres' : process.env.POSTGRESQL_URL,
+POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgresql://postgres:ASITHA-MD=W2oFWRCA#GGijDC-2Mh3qJuRPqJ6JmLEw7YH5hYp9HHTE4KrQih4' : process.env.POSTGRESQL_URL,
 };
